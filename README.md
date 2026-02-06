@@ -41,7 +41,7 @@ Instead of just displaying logs, Forensic-Amp applies logic to detect specific p
 No Python installation required.
 1. Download the latest `ForensicAmp.exe` from the Releases page.
 2. Double-click to launch.
-3. Drag and drop your log files (even GB-sized ones) into the "Drop Zone".
+3. Drag and drop your log files  into the "Drop Zone".
 
 - Option B: Run from Source
 
