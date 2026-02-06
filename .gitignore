@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.vscode/
+*.log
+attacker_log_datasets/
+tests/dummy.log
+build/
+dist/
+*.spec
+process_logo.py
