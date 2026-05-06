@@ -11,19 +11,19 @@ Forensic-Amp is a GUI-based Digital Forensics Log Analyzer. It automates the ing
 ## 📸 Screenshots
 
 ### 1. System Ready & Log Ingestion
-![System Ready](tests/snaps/Screenshot%202026-02-06%20162447.png)
+![System Ready](assets/Screenshot%202026-02-06%20162447.png)
 *The "Winamp" inspired interface ready for log ingestion.*
 
 ### 2. Analysis Results (Findings)
-![Findings](tests/snaps/Screenshot%202026-02-06%20161519.png)
+![Findings](assets/Screenshot%202026-02-06%20161519.png)
 *Detailed breakdown of detected anomalies including XSS, SQL Injection, and Command Injection with hardening recommendations.*
 
 ### 3. Temporal Analysis (Timeline)
-![Timeline](tests/snaps/Screenshot%202026-02-06%20161547.png)
+![Timeline](assets/Screenshot%202026-02-06%20161547.png)
 *Visualization of attack density and severity over time.*
 
 ### 4. Analysis Complete
-![Analysis Complete](tests/snaps/Screenshot%202026-02-06%20161531.png)
+![Analysis Complete](assets/Screenshot%202026-02-06%20161531.png)
 *Dashboard view after successful log analysis.*
 
 ## ⚡ Key Features
